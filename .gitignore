@@ -19,3 +19,4 @@ terraform/state.tf
 
 /local/
 .vscode/
+.envrc
